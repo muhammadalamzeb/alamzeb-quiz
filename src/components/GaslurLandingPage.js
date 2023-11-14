@@ -82,7 +82,7 @@ const GaslurLandingPage = () => {
         <div className={styles.loremIpsum}>Amet pellentesq..</div>
         <div className={styles.weth1}>0.55 Weth</div>
       </div>
-      <img className={styles.groupIcon} alt="" src="/group 1248.png" />
+      <img className={styles.groupIcon} alt="" src="/group.png" />
       <div className={styles.div}>25</div>
       <div className={styles.hotAuctions} style={{cursor: "pointer"}}>Hot auctions</div>
       <img
